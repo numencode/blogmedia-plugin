@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin'
+1.0.2:
+    - 'Add media fields to blog post table'
+    - add_media_fields_to_blog_post_table.php

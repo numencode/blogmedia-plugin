@@ -1,0 +1,5 @@
+{
+    "name": "numencode/blogmedia-plugin",
+    "type": "october-plugin",
+    "description": "NumenCode BlogMedia plugin for October CMS"
+}

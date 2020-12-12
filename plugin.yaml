@@ -1,0 +1,6 @@
+plugin:
+    name: 'numencode.blogmedia::lang.plugin.name'
+    description: 'numencode.blogmedia::lang.plugin.description'
+    author: 'Blaz Orazem'
+    icon: icon-picture-o
+    homepage: 'https://github.com/numencode/blogmedia-plugin'

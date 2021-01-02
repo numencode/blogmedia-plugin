@@ -7,8 +7,8 @@ use NumenCode\BlogMedia\Classes\ExtendBlogPostFields;
 class Plugin extends PluginBase
 {
     public $require = [
-        'NumenCode.Fundamentals',
         'RainLab.Blog',
+        'NumenCode.Fundamentals',
     ];
 
     public function boot()

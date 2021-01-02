@@ -1,5 +1,10 @@
 {
     "name": "numencode/blogmedia-plugin",
     "type": "october-plugin",
-    "description": "NumenCode BlogMedia plugin for October CMS"
+    "description": "NumenCode Blog Media plugin for October CMS",
+    "require": {
+        "php": ">=7.3",
+        "rainlab/blog-plugin": "dev-master",
+        "numencode/fundamentals-plugin": "dev-master"
+    }
 }

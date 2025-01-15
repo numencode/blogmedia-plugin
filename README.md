@@ -1,3 +1,16 @@
+# ⚠️ Repository Archived ⚠️
+
+This repository has been archived and is no longer maintained.  
+
+It contains a plugin for an older version of WinterCMS that is no longer supported.  
+Feel free to fork the repository if you wish to continue development or use the code as reference.  
+
+**Exciting News!** A new **BlogExtension plugin** is coming soon in February 2025. Stay tuned for updates!  
+
+For more information about WinterCMS, visit [https://wintercms.com](https://wintercms.com).
+
+---
+
 # Blog Media plugin
 
 This plugin extends the RainLab.Blog plugin with a possibility to attach various media elements to a blog post.
